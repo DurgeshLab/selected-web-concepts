@@ -69,4 +69,4 @@ if(gl&&gl.getExtension('OES_standard_derivatives'))try{
 function frame(now){const dt=Math.min((now-previous)/1000,.05);previous=now;if(!paused&&visible&&!document.hidden)time+=dt;position+= (target-position)*Math.min(1,dt*8);const n=Math.min(2,Math.floor(position*3));if(n!==step)scene(n);stage.querySelector('.story-progress').style.width=(position*100)+'%';stage.dataset.progress=position.toFixed(3);if(visible&&!media.matches&&!document.hidden)draw();requestAnimationFrame(frame)}requestAnimationFrame(frame);
 })();
 
-</script></body></html>
+</script><script src="../assets/closing.js" defer></script></body></html>
