@@ -10,4 +10,4 @@ document.querySelectorAll('[data-rotate]').forEach(b=>b.addEventListener('click'
 document.querySelectorAll('form').forEach(f=>f.addEventListener('submit',e=>{e.preventDefault();const name=f.elements.namedItem('name');name.setCustomValidity(name.value.trim()?'':'Enter your name.');if(!f.reportValidity())return;f.querySelector('.result').textContent='Demo complete. Your inquiry was validated locally. Nothing was sent, booked or stored.';f.reset();}));document.querySelectorAll('input[name=name]').forEach(i=>i.addEventListener('input',()=>i.setCustomValidity('')));
 
 /* Shared narrative footer for the retained detail pages. */
-(()=>{const script=document.createElement('script');script.src=new URL('assets/closing.js',document.currentScript.src).href;script.defer=true;document.body.append(script)})();
+(()=>{const script=document.createElement('script');script.src=new URL('assets/closing.js?v=20261020-links',document.currentScript.src).href;script.defer=true;document.body.append(script)})();
