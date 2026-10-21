@@ -1,0 +1,806 @@
+{
+  "checkedOn": "2026-10-21",
+  "scope": "20 Hero-branded motorcycle entries on official India site; local availability unconfirmed",
+  "models": [
+    {
+      "name": "XTREME 160R 4V",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/xtreme-160r-4v.html",
+      "image": "https://www.heromotocorp.com/content/dam/hero-eds-website/xtreme-160r-4v-new-layout/find-your-ride-xtreme-160r-4v.png",
+      "engine": "163.2 cc engine",
+      "cc": 163.2,
+      "category": "premium",
+      "family": "Xtreme",
+      "details": [
+        {
+          "label": "Displacement",
+          "value": "163.2"
+        },
+        {
+          "label": "Engine",
+          "value": "4V, Oil-Cooled, 4 Stroke Single Cylinder"
+        },
+        {
+          "label": "Maximum power",
+          "value": "12.3 kw/8500rpm"
+        },
+        {
+          "label": "Maximum torque",
+          "value": "14.6 Nm/6500rpm"
+        },
+        {
+          "label": "Transmission",
+          "value": "5 Speed Constant Mesh"
+        },
+        {
+          "label": "Front suspension",
+          "value": "USD Fork - Dia 37mm, 130mm stroke"
+        },
+        {
+          "label": "Rear suspension",
+          "value": "Mono susp, 39mm stroke"
+        },
+        {
+          "label": "Fuel tank",
+          "value": "12"
+        },
+        {
+          "label": "Seat height",
+          "value": "805 mm"
+        }
+      ]
+    },
+    {
+      "name": "XTREME 250R",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/Xtreme-250r.html",
+      "image": "https://www.heromotocorp.com/content/dam/hero-eds-website/xtreme-250r/find-your-ride-xtreme-250r.png",
+      "engine": "250 cc engine",
+      "cc": 250.0,
+      "category": "premium",
+      "family": "Xtreme",
+      "details": [
+        {
+          "label": "Displacement",
+          "value": "250 cc"
+        },
+        {
+          "label": "Engine",
+          "value": "Liquid cooled,4 stroke, single cylinder"
+        },
+        {
+          "label": "Maximum power",
+          "value": "30 PS@9250 r/min"
+        },
+        {
+          "label": "Maximum torque",
+          "value": "25.3 N-m@7500 r/min"
+        },
+        {
+          "label": "Transmission",
+          "value": "Manual 6 speed"
+        },
+        {
+          "label": "Front suspension",
+          "value": "USD Front cushion"
+        },
+        {
+          "label": "Rear suspension",
+          "value": "Rectangular swingarm with Frequency Selective Damping RSU"
+        },
+        {
+          "label": "Fuel tank",
+          "value": "11.5 litres"
+        }
+      ]
+    },
+    {
+      "name": "XPULSE 210",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/xpulse-210.html",
+      "image": "https://s7ap1.scene7.com/is/image/hmcl/xpulse_210-1?fmt=webp-alpha",
+      "engine": "210 cc engine",
+      "cc": 210.0,
+      "category": "premium",
+      "family": "Xpulse",
+      "details": [
+        {
+          "label": "Displacement",
+          "value": "210 cc"
+        },
+        {
+          "label": "Engine",
+          "value": "4 Stroke 4 Valve Single Cylinder Liquid Cooled DOHC"
+        },
+        {
+          "label": "Maximum power",
+          "value": "24.6 PS @9250rpm"
+        },
+        {
+          "label": "Maximum torque",
+          "value": "20.7 Nm @ 7250 rpm"
+        },
+        {
+          "label": "Transmission",
+          "value": "6 Speed"
+        },
+        {
+          "label": "Front suspension",
+          "value": "Telescopic Front Forks Dia 41mm with anti friction bush"
+        },
+        {
+          "label": "Rear suspension",
+          "value": "Rectangular swingarm with 10 steps adjustable gas charged mono-shock"
+        },
+        {
+          "label": "Fuel tank",
+          "value": "13 L"
+        },
+        {
+          "label": "Seat height",
+          "value": "830 mm"
+        }
+      ]
+    },
+    {
+      "name": "Karizma XMR",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/karizma-xmr.html",
+      "image": "https://s7ap1.scene7.com/is/image/hmcl/Karizma_xmr?fmt=webp-alpha",
+      "engine": "210 cc engine",
+      "cc": 210.0,
+      "category": "premium",
+      "family": "Other",
+      "details": [
+        {
+          "label": "Displacement",
+          "value": "210 cc"
+        },
+        {
+          "label": "Engine",
+          "value": "4 Stroke, 4 Valve, Single Cylinder Liquid Cooled, DOHC"
+        },
+        {
+          "label": "Maximum power",
+          "value": "25.5 PS @9250 rpm"
+        },
+        {
+          "label": "Maximum torque",
+          "value": "20.4 Nm @7250 rpm"
+        },
+        {
+          "label": "Transmission",
+          "value": "Constant Mesh , 6 Speed"
+        },
+        {
+          "label": "Front suspension",
+          "value": "Dia 37 mm, Telescopic Front Forks with Anti Friction Bush"
+        },
+        {
+          "label": "Rear suspension",
+          "value": "Gas Charged Mono Shock, 6 Step Pre-load Adjustable"
+        }
+      ]
+    },
+    {
+      "name": "XPULSE 200 4V",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/xpulse-200-4v.html",
+      "image": "https://s7ap1.scene7.com/is/image/hmcl/xpulse-200-4v?fmt=webp-alpha",
+      "engine": "199.6 cc engine",
+      "cc": 199.6,
+      "category": "premium",
+      "family": "Xpulse",
+      "details": [
+        {
+          "label": "Engine class",
+          "value": "199.6 cc engine"
+        },
+        {
+          "label": "Official range highlight",
+          "value": "17.35 nm @6500 RPM"
+        }
+      ]
+    },
+    {
+      "name": "XTREME 160R",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/xtreme-160r.html",
+      "image": "https://s7ap1.scene7.com/is/image/hmcl/xtreme160r-image-06?fmt=webp-alpha",
+      "engine": "163.2 cc engine",
+      "cc": 163.2,
+      "category": "premium",
+      "family": "Xtreme",
+      "details": [
+        {
+          "label": "Engine class",
+          "value": "163.2 cc engine"
+        },
+        {
+          "label": "Official range highlight",
+          "value": "14 nm @6500 RPM"
+        }
+      ]
+    },
+    {
+      "name": "SPLENDOR+ XTEC 2.0",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/splendor-plus-xtec-2-0.html",
+      "image": "https://s7ap1.scene7.com/is/image/hmcl/splendorplus_xtec_2.0?fmt=webp-alpha",
+      "engine": "97.2 cc engine",
+      "cc": 97.2,
+      "category": "100",
+      "family": "Splendor",
+      "details": [
+        {
+          "label": "Displacement",
+          "value": "97.2 cc"
+        },
+        {
+          "label": "Engine",
+          "value": "Air cooled, 4-stroke, Single cylinder, OHC"
+        },
+        {
+          "label": "Maximum power",
+          "value": "5.9 Kw @ 8000 rpm"
+        },
+        {
+          "label": "Maximum torque",
+          "value": "8.05 Nm @ 6000 rpm"
+        },
+        {
+          "label": "Transmission",
+          "value": "4-speed Constant Mesh"
+        },
+        {
+          "label": "Front suspension",
+          "value": "Telescopic Hydraulic Shock Absorbers"
+        },
+        {
+          "label": "Rear suspension",
+          "value": "Swingarm with 5-Step Adjustable Hydraulic Shock Absorbers"
+        },
+        {
+          "label": "Fuel tank",
+          "value": "9.8 L"
+        }
+      ]
+    },
+    {
+      "name": "SPLENDOR+",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/practical/splendor-plus.html",
+      "image": "https://s7ap1.scene7.com/is/image/hmcl/splendor-plus-nav?fmt=webp-alpha",
+      "engine": "97.2 cc engine",
+      "cc": 97.2,
+      "category": "100",
+      "family": "Splendor",
+      "details": [
+        {
+          "label": "Displacement",
+          "value": "97.2 cc"
+        },
+        {
+          "label": "Engine",
+          "value": "Air cooled, 4-stroke, Single cylinder, OHC"
+        },
+        {
+          "label": "Maximum power",
+          "value": "5.9 Kw @ 8000 rpm"
+        },
+        {
+          "label": "Maximum torque",
+          "value": "8.05 Nm @ 6000 rpm"
+        },
+        {
+          "label": "Transmission",
+          "value": "4-speed Constant Mesh"
+        },
+        {
+          "label": "Front suspension",
+          "value": "Telescopic Hydraulic Shock Absorbers"
+        },
+        {
+          "label": "Rear suspension",
+          "value": "Swingarm with 5-Step Adjustable Hydraulic Shock Absorbers"
+        },
+        {
+          "label": "Fuel tank",
+          "value": "9.8 L"
+        }
+      ]
+    },
+    {
+      "name": "SPLENDOR+ XTEC",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/splendor-plus-xtec.html",
+      "image": "https://s7ap1.scene7.com/is/image/hmcl/Splendor-Xtec-updated?fmt=webp-alpha",
+      "engine": "97.2 cc engine",
+      "cc": 97.2,
+      "category": "100",
+      "family": "Splendor",
+      "details": [
+        {
+          "label": "Displacement",
+          "value": "97.2 cc"
+        },
+        {
+          "label": "Engine",
+          "value": "Air cooled, 4-stroke, Single cylinder, OHC"
+        },
+        {
+          "label": "Maximum power",
+          "value": "5.9 Kw @ 8000 rpm"
+        },
+        {
+          "label": "Maximum torque",
+          "value": "8.05 Nm @ 6000 rpm"
+        },
+        {
+          "label": "Transmission",
+          "value": "4-speed Constant Mesh"
+        },
+        {
+          "label": "Front suspension",
+          "value": "Telescopic Hydraulic Shock Absorbers"
+        },
+        {
+          "label": "Rear suspension",
+          "value": "Swingarm with 5-Step Adjustable Hydraulic Shock Absorbers"
+        },
+        {
+          "label": "Fuel tank",
+          "value": "9.8 L"
+        }
+      ]
+    },
+    {
+      "name": "HF DELUXE",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/practical/hf-deluxe.html",
+      "image": "https://s7ap1.scene7.com/is/image/hmcl/hf-deluxe-new?fmt=webp-alpha",
+      "engine": "97.2 cc engine",
+      "cc": 97.2,
+      "category": "100",
+      "family": "HF",
+      "details": [
+        {
+          "label": "Displacement",
+          "value": "97.2 cc"
+        },
+        {
+          "label": "Engine",
+          "value": "Air cooled, 4-stroke, Single cylinder, OHC"
+        },
+        {
+          "label": "Maximum power",
+          "value": "5.9 Kw @ 8000 rpm"
+        },
+        {
+          "label": "Maximum torque",
+          "value": "8.05 Nm @ 6000 rpm"
+        },
+        {
+          "label": "Transmission",
+          "value": "4-speed Constant Mesh"
+        },
+        {
+          "label": "Front suspension",
+          "value": "Telescopic Hydraulic Shock Absorbers"
+        },
+        {
+          "label": "Rear suspension",
+          "value": "2-Step Adjustable Hydraulic Shock Absorbers"
+        },
+        {
+          "label": "Fuel tank",
+          "value": "9.6 Litre"
+        },
+        {
+          "label": "Seat height",
+          "value": "805 mm"
+        }
+      ]
+    },
+    {
+      "name": "HF 100",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/hf-100.html",
+      "image": "https://s7ap1.scene7.com/is/image/hmcl/hf-100?fmt=webp-alpha",
+      "engine": "97.2 cc engine",
+      "cc": 97.2,
+      "category": "100",
+      "family": "HF",
+      "details": [
+        {
+          "label": "Displacement",
+          "value": "97.2 cc"
+        },
+        {
+          "label": "Engine",
+          "value": "Air cooled, 4-stroke, Single cylinder, OHC"
+        },
+        {
+          "label": "Maximum power",
+          "value": "5.9 Kw @ 8000 rpm"
+        },
+        {
+          "label": "Maximum torque",
+          "value": "8.05 Nm @ 6000 rpm"
+        },
+        {
+          "label": "Transmission",
+          "value": "4-speed Constant Mesh"
+        },
+        {
+          "label": "Front suspension",
+          "value": "Telescopic Hydraulic Shock Absorbers"
+        },
+        {
+          "label": "Rear suspension",
+          "value": "Swingarm with 2-Step Adjustable Hydraulic Shock Absorbers"
+        },
+        {
+          "label": "Fuel tank",
+          "value": "9.1 Litre"
+        },
+        {
+          "label": "Seat height",
+          "value": "805 mm"
+        }
+      ]
+    },
+    {
+      "name": "GLAMOUR X ABS",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/glamour-x-abs.html",
+      "image": "https://s7ap1.scene7.com/is/image/hmcl/1-78?fmt=webp-alpha",
+      "engine": "125 cc engine",
+      "cc": 125.0,
+      "category": "125",
+      "family": "Glamour",
+      "details": [
+        {
+          "label": "Displacement",
+          "value": "124.7 cc"
+        },
+        {
+          "label": "Engine",
+          "value": "Air cooled, 4S"
+        },
+        {
+          "label": "Maximum power",
+          "value": "8.5 Kw @ 8250 rpm"
+        },
+        {
+          "label": "Maximum torque",
+          "value": "10.5 Nm @ 6500 rpm"
+        },
+        {
+          "label": "Transmission",
+          "value": "Manual"
+        },
+        {
+          "label": "Front suspension",
+          "value": "Telescopic (Dia.30)"
+        },
+        {
+          "label": "Rear suspension",
+          "value": "5-Step Adjustable Hydraulic Shock Absorbers 73.5mm"
+        },
+        {
+          "label": "Fuel tank",
+          "value": "10 L"
+        },
+        {
+          "label": "Seat height",
+          "value": "790 mm"
+        }
+      ]
+    },
+    {
+      "name": "GLAMOUR X",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/glamour-x.html",
+      "image": "https://s7ap1.scene7.com/is/image/hmcl/glamour-x-navigation?fmt=webp-alpha",
+      "engine": "125 cc engine",
+      "cc": 125.0,
+      "category": "125",
+      "family": "Glamour",
+      "details": [
+        {
+          "label": "Displacement",
+          "value": "124.7 cc"
+        },
+        {
+          "label": "Engine",
+          "value": "Air cooled, 4S"
+        },
+        {
+          "label": "Maximum power",
+          "value": "8.5 Kw @ 8250 rpm"
+        },
+        {
+          "label": "Maximum torque",
+          "value": "10.5 Nm @ 6500 rpm"
+        },
+        {
+          "label": "Transmission",
+          "value": "Manual"
+        },
+        {
+          "label": "Front suspension",
+          "value": "Telescopic (Dia.30)"
+        },
+        {
+          "label": "Rear suspension",
+          "value": "5-Step Adjustable Hydraulic Shock Absorbers 73.5mm"
+        },
+        {
+          "label": "Fuel tank",
+          "value": "10 L"
+        },
+        {
+          "label": "Seat height",
+          "value": "790 mm"
+        }
+      ]
+    },
+    {
+      "name": "XTREME 125R",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/xtreme-125r.html",
+      "image": "https://s7ap1.scene7.com/is/image/hmcl/xtreme-new-05?fmt=webp-alpha",
+      "engine": "125 cc engine",
+      "cc": 125.0,
+      "category": "125",
+      "family": "Xtreme",
+      "details": [
+        {
+          "label": "Displacement",
+          "value": "124.7"
+        },
+        {
+          "label": "Engine",
+          "value": "Air Cooled 4 Stroke"
+        },
+        {
+          "label": "Maximum power",
+          "value": "11.4BHP @ 8250 RPM"
+        },
+        {
+          "label": "Maximum torque",
+          "value": "10.5 Nm @6500 RPM"
+        },
+        {
+          "label": "Transmission",
+          "value": "Constant Mesh, 5 Speed"
+        },
+        {
+          "label": "Front suspension",
+          "value": "Telescopic Forks"
+        },
+        {
+          "label": "Rear suspension",
+          "value": "Adjustable Monoshock"
+        },
+        {
+          "label": "Fuel tank",
+          "value": "10 L"
+        },
+        {
+          "label": "Seat height",
+          "value": "790 mm"
+        }
+      ]
+    },
+    {
+      "name": "GLAMOUR",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/glamour.html",
+      "image": "https://s7ap1.scene7.com/is/image/hmcl/glamour?fmt=webp-alpha",
+      "engine": "125 cc engine",
+      "cc": 125.0,
+      "category": "125",
+      "family": "Glamour",
+      "details": [
+        {
+          "label": "Displacement",
+          "value": "124.7 cm³"
+        },
+        {
+          "label": "Engine",
+          "value": "Air Cooled, 4 stroke"
+        },
+        {
+          "label": "Maximum power",
+          "value": "7.75 kW @ 7500 rpm"
+        },
+        {
+          "label": "Maximum torque",
+          "value": "10.4 Nm @ 6000 rpm"
+        },
+        {
+          "label": "Transmission",
+          "value": "Constant mesh, 5-speed"
+        },
+        {
+          "label": "Front suspension",
+          "value": "Dia. 30 telescopic fork - 105 stroke"
+        },
+        {
+          "label": "Rear suspension",
+          "value": "5-step adjustable - 73.5 mm stroke hydraulic shock absorbers"
+        },
+        {
+          "label": "Fuel tank",
+          "value": "10 Litres"
+        },
+        {
+          "label": "Seat height",
+          "value": "793 mm"
+        }
+      ]
+    },
+    {
+      "name": "SUPER SPLENDOR XTEC",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/super-splendor-xtec.html",
+      "image": "https://s7ap1.scene7.com/is/image/hmcl/super-splendor-xtec?fmt=webp-alpha",
+      "engine": "124.7 cc engine",
+      "cc": 124.7,
+      "category": "125",
+      "family": "Splendor",
+      "details": [
+        {
+          "label": "Displacement",
+          "value": "124.7 cc"
+        },
+        {
+          "label": "Engine",
+          "value": "Air Cooled, 4-Stroke, OHC, Single Cylinder"
+        },
+        {
+          "label": "Maximum power",
+          "value": "10.7 BHP @7500rpm"
+        },
+        {
+          "label": "Maximum torque",
+          "value": "10.6 Nm @ 6000 rpm"
+        },
+        {
+          "label": "Transmission",
+          "value": "5-Speed Constant Mesh"
+        },
+        {
+          "label": "Front suspension",
+          "value": "Telescopic Hydraulic Shock Absorbers"
+        },
+        {
+          "label": "Rear suspension",
+          "value": "5-Step Adjustable Telescopic Hydraulic Shock Absorbers"
+        },
+        {
+          "label": "Seat height",
+          "value": "793 mm"
+        }
+      ]
+    },
+    {
+      "name": "SPLENDOR+ FLEX",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/flexible-fuel-e85.html?tab=splendor-plus",
+      "image": "https://www.heromotocorp.com/content/dam/hero-aem-website/in/en-in/homepage/header/motorcycles/Navigation_Splendor%20Flex_483.png",
+      "engine": "97.2 cc engine",
+      "cc": 97.2,
+      "category": "100",
+      "family": "Splendor",
+      "details": [
+        {
+          "label": "Engine class",
+          "value": "97.2 cc engine"
+        },
+        {
+          "label": "Official range highlight",
+          "value": "8.3 nm (with E85) @ 6000 RPM"
+        }
+      ]
+    },
+    {
+      "name": "HF DELUXE FLEX",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/flexible-fuel-e85.html?tab=hf-deluxe",
+      "image": "https://www.heromotocorp.com/content/dam/hero-aem-website/in/en-in/homepage/header/motorcycles/Navigation_HF%20Deluxe%20Flex_483.png",
+      "engine": "97.2 cc engine",
+      "cc": 97.2,
+      "category": "100",
+      "family": "HF",
+      "details": [
+        {
+          "label": "Engine class",
+          "value": "97.2 cc engine"
+        },
+        {
+          "label": "Official range highlight",
+          "value": "8.3 nm (with E85) @ 6000 RPM"
+        }
+      ]
+    },
+    {
+      "name": "PASSION+",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/passion-plus.html",
+      "image": "https://s7ap1.scene7.com/is/image/hmcl/passion_-new-variant?fmt=webp-alpha",
+      "engine": "97.2 cc engine",
+      "cc": 97.2,
+      "category": "100",
+      "family": "Other",
+      "details": [
+        {
+          "label": "Displacement",
+          "value": "97.2 cc"
+        },
+        {
+          "label": "Engine",
+          "value": "Air cooled, 4 stroke"
+        },
+        {
+          "label": "Maximum power",
+          "value": "5.9 kW @ 8,000 rpm"
+        },
+        {
+          "label": "Maximum torque",
+          "value": "8.05 Nm @ 6,000 rpm"
+        },
+        {
+          "label": "Transmission",
+          "value": "Constant mesh, 4 speed"
+        },
+        {
+          "label": "Front suspension",
+          "value": "Telescopic"
+        },
+        {
+          "label": "Rear suspension",
+          "value": "Twin Tube"
+        },
+        {
+          "label": "Fuel tank",
+          "value": "11 litres"
+        },
+        {
+          "label": "Seat height",
+          "value": "790 mm"
+        }
+      ]
+    },
+    {
+      "name": "SUPER SPLENDOR XTEC 2.0",
+      "url": "https://www.heromotocorp.com/en-in/motorcycles/super-splendor-xtec-2-0.html",
+      "image": "https://www.heromotocorp.com/content/dam/aem-eds-website/super-splendor-xtec-2-0/homepage/homepage-navigation.png",
+      "engine": "124.7 cc engine",
+      "cc": 124.7,
+      "category": "125",
+      "family": "Splendor",
+      "details": [
+        {
+          "label": "Displacement",
+          "value": "124.7 cc"
+        },
+        {
+          "label": "Engine",
+          "value": "2V,Air cooled, 4 stroke single cylinder"
+        },
+        {
+          "label": "Maximum power",
+          "value": "10.7 BHP @ 7500 RPM"
+        },
+        {
+          "label": "Maximum torque",
+          "value": "10.6 Nm @ 6000 RPM"
+        },
+        {
+          "label": "Transmission",
+          "value": "5-Speed Constant Mesh"
+        },
+        {
+          "label": "Front suspension",
+          "value": "Telescopic Hydraulic Shock Absorbers"
+        },
+        {
+          "label": "Rear suspension",
+          "value": "Swingarm with 5- Step Adjustable Telescopic Hydraulic Shock Absorbers"
+        },
+        {
+          "label": "Fuel tank",
+          "value": "12 Litre"
+        },
+        {
+          "label": "Seat height",
+          "value": "788 mm"
+        }
+      ]
+    }
+  ]
+}
